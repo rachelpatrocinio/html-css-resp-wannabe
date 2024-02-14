@@ -131,7 +131,7 @@ img {
  @media (min-width: 480px) and (max-width: 767px) {
 
     .container{
-        width: 480px;
+        width: 100%;
     }
     .row{
         width: 85%;
@@ -188,14 +188,14 @@ img {
 @media screen and (min-width: 768px){
 
     .container{
-        width: 768px;
+        width: 100%;
     }
 }
 
 @media screen and (min-width: 1160px){
 
     .container{
-        width: 1160px;
+        width: 100%;
     }
 }
 
