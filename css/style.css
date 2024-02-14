@@ -133,6 +133,15 @@ img {
     .container{
         width: 480px;
     }
+
+    .lessons .row{
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .lessons .col {
+        width: 100%;
+    }
 }
 
 @media screen and (min-width: 768px){
