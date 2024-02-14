@@ -134,12 +134,25 @@ img {
         width: 480px;
     }
 
+    /* Lessons */
+
     .lessons .row{
         flex-wrap: wrap;
         gap: 30px;
     }
 
     .lessons .col {
+        width: 100%;
+    }
+
+    /* Steps */
+
+    .steps .row{
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .steps .col{
         width: 100%;
     }
 }
