@@ -147,6 +147,10 @@ img {
 
     /* Steps */
 
+    .steps{
+        margin-bottom: 0;
+    }
+
     .steps .row{
         flex-wrap: wrap;
         gap: 30px;
@@ -154,6 +158,26 @@ img {
 
     .steps .col{
         width: 100%;
+    }
+
+    /* Why us */
+
+    .why-us{
+        background-color: #222222;
+    }
+
+    .why-us .row{
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .why-us .col{
+        width: 100%;
+    }
+
+    .why-us {
+        margin-bottom: 0;
+        padding: 3rem 0;
     }
 }
 
